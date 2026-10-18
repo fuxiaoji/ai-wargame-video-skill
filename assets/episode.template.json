@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "episode_id": "episode-01",
+  "fps": 30,
+  "planned_game_ids": [],
+  "actors": [],
+  "supervision_views": [
+    "director"
+  ],
+  "selected_game_id": null,
+  "games": [],
+  "shots": [],
+  "interactions": [],
+  "delivery_required": [
+    "video",
+    "subtitles",
+    "source_package"
+  ],
+  "delivery": {}
+}

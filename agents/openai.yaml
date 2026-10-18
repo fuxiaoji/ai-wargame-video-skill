@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI兵棋视频"
+  short_description: "将真实模型兵棋对局制作成带双盲监督、机制解说和观众互动的视频"
+  default_prompt: "使用 $ai-wargame-video 阅读本地制作包，组织独立编队AI对战，逐回合监督，再制作机制解说、互动剪辑和封面。"
